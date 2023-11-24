@@ -1,6 +1,6 @@
 <template>
   <div>Hello {{ value }} and Happy Thanksgiving!</div>
-  <div>2nd commit here
+  <div>2nd commit here</div>
 </template>
 
 <script>
